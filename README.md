@@ -36,6 +36,19 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
     <td class="tg-yw4l">myVirus_classroom.sh</td>
     <td class="tg-yw4l"></td>
   </tr>
+    <tr>
+    <td class="tg-yw4l" rowspan="3">Windows</td>
+    <td class="tg-yw4l">loop.sh</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">myVirus.sh</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">myVirus_classroom.sh</td>
+    <td class="tg-yw4l"></td>
+  </tr>
 
 
 
