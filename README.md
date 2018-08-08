@@ -8,46 +8,56 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
   <tr>
     <th>Directory/Folder</th>
     <th>File</th>
-    <th>Description</th>
+    <th>Description</th>    
+    <th>How to execute</th>
   </tr>
   <tr>
     <td rowspan="3">UNIX</td>
     <td>loop.sh</td>
     <td>This is the loop example.&nbsp;&nbsp;To run the loop, uncomment the code by removing the #</td>
+    <td>./<nameOfFile.sh>, where nameOfFile is the name of the file you want to run.</td>
   </tr>
   <tr>
-    <td class="tg-us36">myVirus.sh</td>
-    <td class="tg-us36"></td>
+    <td>myVirus.sh</td>
+    <td></td>
+    <td>./<nameOfFile.sh>, where nameOfFile is the name of the file you want to run.</td>
   </tr>
   <tr>
-    <td class="tg-us36">myVirus_classroom.sh</td>
-    <td class="tg-us36"></td>
+    <td>myVirus_classroom.sh</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-yw4l" rowspan="3">Mac</td>
-    <td class="tg-yw4l">loop.sh</td>
-    <td class="tg-yw4l"></td>
+    <td rowspan="3">Mac</td>
+    <td>loop.sh</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">myVirus.sh</td>
-    <td class="tg-yw4l"></td>
+    <td>myVirus.sh</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">myVirus_classroom.sh</td>
-    <td class="tg-yw4l"></td>
+    <td>myVirus_classroom.sh</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
-    <td class="tg-yw4l" rowspan="3">Windows</td>
-    <td class="tg-yw4l">loop.sh</td>
-    <td class="tg-yw4l"></td>
+    <td rowspan="3">Windows</td>
+    <td>loop.sh</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">myVirus.sh</td>
-    <td class="tg-yw4l"></td>
+    <td>myVirus.sh</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">myVirus_classroom.sh</td>
-    <td class="tg-yw4l"></td>
+    <td>myVirus_classroom.sh</td>
+    <td></td>
+    <td></td>
   </tr>
 
 
