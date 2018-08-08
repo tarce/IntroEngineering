@@ -66,3 +66,5 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
 Be sure to visit the class [website](https://www.cise.ufl.edu/~tarce/egs1006.html) for more information on all that the [CISE department](https://www.cise.ufl.edu/) has to offer.
 
 [AppleScript](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/DisplayDialogsandAlerts.html#//apple_ref/doc/uid/TP40016239-CH15-SW1)
+
+[Whiptail](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail)
