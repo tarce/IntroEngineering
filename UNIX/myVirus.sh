@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# msgbox 12 78
-# menu 25 78 16
-# gauge 6 60 0
-
 clear
 
 echo "Starting program..."
