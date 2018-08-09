@@ -8,60 +8,45 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
   <tr>
     <th>Directory/Folder</th>
     <th>File</th>
-    <th>Description</th>    
-    <th>How to execute</th>
+    <th>How To Use</th>    
   </tr>
   <tr>
     <td rowspan="3">UNIX</td>
     <td>loop.sh</td>
-    <td>This is the loop example.&nbsp;&nbsp;To run the loop, uncomment the code by removing the #</td>
-    <td>./<nameOfFile.sh>, where nameOfFile is the name of the file you want to run.</td>
+    <td rowspan="3">This is the loop example demonstrated in class. To run the loop, uncomment the code by removing the #. Download the file.  Set execute permission as shown in class.  Open the terminal and navigate to the script.  Run by typing: ./loop.sh</td>
   </tr>
   <tr>
     <td>myVirus.sh</td>
-    <td></td>
-    <td>./<nameOfFile.sh>, where nameOfFile is the name of the file you want to run.</td>
   </tr>
   <tr>
-    <td>myVirus_classroom.sh</td>
-    <td></td>
-    <td></td>
+    <td>STUXNET.sh</td>
   </tr>
   <tr>
-    <td rowspan="3">Mac</td>
-    <td>loop.sh</td>
-    <td></td>
+    <td rowspan="4">Mac</td>
+    <td>STUXNET.app</td>
     <td></td>
   </tr>
   <tr>
-    <td>myVirus.sh</td>
-    <td></td>
+    <td>loop.app</td>
     <td></td>
   </tr>
   <tr>
-    <td>myVirus_classroom.sh</td>
+    <td>STUXNET.scpt</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>loop.scpt</td>
     <td></td>
   </tr>
     <tr>
-    <td rowspan="3">Windows</td>
-    <td>loop.sh</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>myVirus.sh</td>
-    <td></td>
+    <td>Windows</td>
+    <td>STUXNET.bat</td>
     <td></td>
   </tr>
-  <tr>
-    <td>myVirus_classroom.sh</td>
-    <td></td>
-    <td></td>
-  </tr>
+</table>
 
-![MacOS Version of in class code](https://github.com/tarce/IntroEngineering/blob/master/MacOS/STUX_MAC.gif)
-
+![MacOS Version of in class code](https://github.com/tarce/IntroEngineering/blob/master/MacOS/Gifs/STUX_MAC_4x4.gif)
+![MacOS Version of in class code](https://github.com/tarce/IntroEngineering/blob/master/Win/Gifs/STUX_WIN_4x4.gif)
 
 Be sure to visit the class [website](https://www.cise.ufl.edu/~tarce/egs1006.html) for more information on all that the [CISE department](https://www.cise.ufl.edu/) has to offer.
 
