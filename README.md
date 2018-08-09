@@ -46,7 +46,7 @@
 
 Be sure to visit the class [website](https://www.cise.ufl.edu/~tarce/egs1006.html) for more information on all that the [CISE department](https://www.cise.ufl.edu/) has to offer.
 
-[loop.sh](Mac/loop.sh)
+[loop.sh](MacOS/loop.app)
 
 [AppleScript](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/DisplayDialogsandAlerts.html#//apple_ref/doc/uid/TP40016239-CH15-SW1)
 
