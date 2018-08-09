@@ -60,7 +60,7 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
     <td></td>
   </tr>
 
-
+![MacOS Version of in class code](https://github.com/tarce/IntroEngineering/blob/master/MacOS/STUX_MAC.gif)
 
 
 Be sure to visit the class [website](https://www.cise.ufl.edu/~tarce/egs1006.html) for more information on all that the [CISE department](https://www.cise.ufl.edu/) has to offer.
