@@ -1,6 +1,8 @@
 # EGS 1006: Introduction To Engineering - CISE Files
 
-#### This repository stores files assocated with the EGS1006 Introduction to Engineering CISE section.  Each directory (Unix, Mac, Win) holds scripts that can demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided for students to peruse at their liesure.  The table below outines how to use these files on the OS of your choice.  Have fun! :+1:
+This repository stores files assocated with the **EGS1006**, *Introduction to Engineering*, Computer & Information Science & Engineering (CISE) section.  Each directory (Unix, Mac, Win) holds scripts that can demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided for students to peruse at their liesure.  The table below outines how to use these files on the OS of your choice.  Note that permissions may need to be modified to enable a script or app to run.  
+
+Have fun! :+1:
 
 <table>
   <tr>
