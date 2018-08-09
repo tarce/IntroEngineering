@@ -1,8 +1,6 @@
 # EGS 1006: Introduction To Engineering - CISE Files
----
-#### Here you can find the files that were developed in class as well as the final example scripts.  
 
-The Unix Folder/Directory holds the files that were developed in class.  These will run on UNIX systems including the machines in the CISE labs.  For other versions of the same files that run on alternate operating systems (e.g. Windows, MacOS), please visit the corresponding directories.  The table below also provides a brief description of each file.
+#### This repository stores files assocated with the EGS1006 Introduction to Engineering CISE section.  Each directory (Unix, Mac, Win) holds scripts that can demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided for students to peruse at their liesure.  The table below outines how to use these files on the OS of your choice.  Have fun!
 
 <table>
   <tr>
@@ -24,19 +22,17 @@ The Unix Folder/Directory holds the files that were developed in class.  These w
   <tr>
     <td rowspan="4">Mac</td>
     <td>STUXNET.app</td>
-    <td></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>loop.app</td>
-    <td></td>
   </tr>
   <tr>
     <td>STUXNET.scpt</td>
-    <td></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>loop.scpt</td>
-    <td></td>
   </tr>
     <tr>
     <td>Windows</td>
