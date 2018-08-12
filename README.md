@@ -13,7 +13,7 @@ Have fun!
   <tr>
     <td rowspan="3">UNIX</td>
     <td>loop.sh</td>
-    <td rowspan="3">Download the appropriate file. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
+    <td rowspan="3">Download. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
   </tr>
   <tr>
     <td>myVirus.sh</td>
@@ -24,7 +24,7 @@ Have fun!
   <tr>
     <td rowspan="4">Mac</td>
     <td>STUXNET.app</td>
-    <td rowspan="2">Download the appropriate file. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
+    <td rowspan="2">Download. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
   </tr>
   <tr>
     <td>loop.app</td>
