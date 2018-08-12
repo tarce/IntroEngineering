@@ -1,6 +1,6 @@
 # EGS 1006: Introduction To Engineering - CISE Files
 
-This repository stores files assocated with the **EGS1006**, *Introduction to Engineering*, Computer & Information Science & Engineering (CISE) section.  Each directory (Unix, Mac, Win) holds scripts that demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided as well.  The table below outines how to use these files on the OS of your choice.  Note that your machine's permissions may need to be modified to enable a script or app to run.  
+This repository stores files assocated with the [**EGS1006**, *Introduction to Engineering*](https://www.cise.ufl.edu/~tarce/egs1006.html), Computer & Information Science & Engineering ([CISE](https://www.cise.ufl.edu/)) section.  Each directory (Unix, Mac, Win) holds scripts that demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided as well.  The table below outines how to use these files on the OS of your choice.  Note that your machine's permissions may need to be modified to enable a script or app to run.  
 
 Have fun!
 
@@ -42,7 +42,5 @@ Have fun!
     <td>Download the appropriate file. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
   </tr>
 </table>
-
-Be sure to visit the class [website](https://www.cise.ufl.edu/~tarce/egs1006.html) for more information on all that the [CISE department](https://www.cise.ufl.edu/) has to offer.
 
 More information on [AppleScript](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/DisplayDialogsandAlerts.html#//apple_ref/doc/uid/TP40016239-CH15-SW1), [Whiptail](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail), and [Batch Scripts](https://www.instructables.com/id/Very-Basic-Batch-Tutorial/) can be found by following the links.
