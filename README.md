@@ -1,6 +1,6 @@
 # EGS 1006: Introduction To Engineering - CISE Files
 
-This repository stores files assocated with the [Introduction to Engineering](https://www.cise.ufl.edu/~tarce/egs1006.html) Computer & Information Science & Engineering ([CISE](https://www.cise.ufl.edu/)) section.  Each directory (Unix, Mac, Win) holds scripts that demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided as well.  The table below outines how to use these files on the OS of your choice.  Note that your machine's permissions may need to be modified to enable a script or app to run.  
+This repository stores files assocated with the [Introduction to Engineering](https://www.cise.ufl.edu/~tarce/egs1006.html) Computer & Information Science & Engineering ([CISE](https://www.cise.ufl.edu/)) class.  Each directory (Unix, Mac, Win) holds scripts that demonstrate some of what was learned in class.  For the specific files that were used in class, please see the UNIX directory.  Other files for alternate operating systems (OS) are provided as well.  The table below outines how to use these files on the OS of your choice.  Note that your machine's permissions may need to be modified to enable a script or app to run.  
 
 Have fun!
 
