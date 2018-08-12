@@ -39,7 +39,7 @@ Have fun!
     <tr>
     <td>Windows</td>
     <td>STUXNET.bat</td>
-    <td>Download the appropriate file. Set execute permissions as shown in class.  Open the terminal and navigate to the script location.  Execute the script by typing: ./&gtname_of_script&gt.sh, where &ltname_of_script&gt is the name of the script you downloaded.</td>
+    <td>Download.  Double click. More info &rarr; Run Anyway.  To stop, press Ctrl + C.</td>
   </tr>
 </table>
 
